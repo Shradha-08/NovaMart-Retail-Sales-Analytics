@@ -79,37 +79,37 @@ The dataset contains retail transaction records including:
 
 ## Dashboard Overview
 
-![Dashboard Overview](Dashboard_Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](Dashboard_Screenshots/Overview.png)
 
 ---
 
 ## Monthly Sales & Order Performance
 
-![Sales Trend Analysis](Dashboard_Screenshots/Sales_Trend_Analysis.png)
+![Sales Trend Analysis](Dashboard_Screenshots/Sales.png)
 
 ---
 
 ## Customer Gender Analysis
 
-![Customer Gender Analysis](Dashboard_Screenshots/Customer_Gender_Analysis.png)
+![Customer Gender Analysis](Dashboard_Screenshots/Gender.png)
 
 ---
 
 ## Top Performing States by Revenue
 
-![Top States Analysis](Dashboard_Screenshots/Top_States_Analysis.png)
+![Top States Analysis](Dashboard_Screenshots/States.png)
 
 ---
 
 ## Customer Demographics Analysis
 
-![Age Group Analysis](Dashboard_Screenshots/Age_Group_Analysis.png)
+![Age Group Analysis](Dashboard_Screenshots/Age.png)
 
 ---
 
 ## Sales Performance by Channels
 
-![Sales Channel Analysis](Dashboard_Screenshots/Sales_Channel_Analysis.png)
+![Sales Channel Analysis](Dashboard_Screenshots/Channel.png)
 
 ---
 
@@ -141,12 +141,12 @@ NovaMart-Retail-Sales-Analytics
 │   └── NovaMart_Retail_Analysis.xlsx
 │
 ├── Dashboard_Screenshots
-│   ├── Dashboard_Overview.png
-│   ├── Sales_Trend_Analysis.png
-│   ├── Customer_Gender_Analysis.png
-│   ├── Top_States_Analysis.png
-│   ├── Age_Group_Analysis.png
-│   └── Sales_Channel_Analysis.png
+│   ├── Overview.png
+│   ├── Sales.png
+│   ├── Gender.png
+│   ├── States.png
+│   ├── Age.png
+│   └── Channel.png
 │
 ├── README.md
 └── Insights_Report.pdf
