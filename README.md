@@ -79,13 +79,13 @@ The dataset contains retail transaction records including:
 
 ## Dashboard Overview
 
-![Dashboard Overview](Dashboard_Screenshots/Dashboard_Overview.png)
+![Dashboard Overview](Dashboard_Screenshots/Dashboard_Overview.PNG)
 
 ---
 
 ## Monthly Sales & Order Performance
 
-![Sales Trend Analysis](Dashboard_Screenshots/Sales_Trend_Analysis.png)
+![Sales Trend Analysis](Dashboard_Screenshots/Sales_Trend_Analysis.PNG)
 
 ---
 
@@ -97,7 +97,7 @@ The dataset contains retail transaction records including:
 
 ## Top Performing States by Revenue
 
-![Top States Analysis](Dashboard_Screenshots/Top_States_Analysis.png)
+![Top States Analysis](Dashboard_Screenshots/Top_States_Analysis.PNG)
 
 ---
 
@@ -109,7 +109,7 @@ The dataset contains retail transaction records including:
 
 ## Sales Performance by Channels
 
-![Sales Channel Analysis](Dashboard_Screenshots/Sales_Channel_Analysis.png)
+![Sales Channel Analysis](Dashboard_Screenshots/Sales_Channel_Analysis.PNG)
 
 ---
 
